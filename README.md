@@ -8,7 +8,7 @@
 
 💙 SSAFY **8th**
 
-🇰🇷 Based on Gwanju,Korea
+🇰🇷 Based on Seoul,Korea
 
 👩‍🔧CHINESE LITERATURE TO 👩‍💻 SW ENGINEER
 
