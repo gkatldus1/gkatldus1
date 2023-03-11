@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?&color=gradient&height=280&text=pthwan27&animation=fadeIn&fontAlignY=40&type=wave)
+![header](https://capsule-render.vercel.app/api?&color=gradient&height=280&text=gkatldus1&animation=fadeIn&fontAlignY=40&type=wave)
 
 
 ##  Hello~ My name is siyeon ham. 😎
@@ -33,9 +33,9 @@
 <br/>
 
 ### :pencil2: Studying
-<img src="https://img.shields.io/badge/Springboot-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img src="https://img.shields.io/badge/JPA-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+<img src="https://img.shields.io/badge/Springboot-20232A?style=for-the-badge&logo=springboot&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/JPA-339933?style=for-the-badge&logo=JPA&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=Dockerjs&logoColor=white">
 
  <br/>
  <br/>
