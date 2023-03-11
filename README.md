@@ -48,9 +48,10 @@
    ###  🇰🇷 Based on Seoul,Korea
   <br/>
    
-   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gkatldus)](https://solved.ac/gkatldus) 
-   <br/><br/>
+<!--    [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gkatldus)](https://solved.ac/gkatldus)  -->
+<!--    <br/><br/> -->
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gkatldus1&show_icons=true&theme=highconstrast)
+   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gkatldus)](https://solved.ac/gkatldus)
 <!--    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gkatldus1&layout=compact)](https://github.com/gkatldus1/github-readme-stats)    -->
  
 </div>
