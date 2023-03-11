@@ -1,17 +1,62 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=siyeon&fontSize=90)
+<div align="center">
 
-### Hello my name is siyeonham(함시연) 😀 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgkatldus1&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
----
+![header](https://capsule-render.vercel.app/api?&color=gradient&height=280&text=pthwan27&animation=fadeIn&fontAlignY=40&type=wave)
 
-🌱 I'm currently learning Java, Spring, JPA
 
-💙 SSAFY **8th**
+##  Hello~ My name is siyeon ham. 😎
 
-🇰🇷 Based on Seoul,Korea
+<br/>
+  
+###  :clipboard: Once I've Used 
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 
-👩‍🔧CHINESE LITERATURE TO 👩‍💻 SW ENGINEER
+<br/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> 
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 
-<a href="https://github.com/gkatldus1"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gkatldus1&theme=dracula&layout=compact&langs_count=10" /></a> [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gkatldus)](https://solved.ac/gkatldus)
+<br/>
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+<img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white">
+<img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E">
 
-<!-- [![gkatldus1's GitHub stats](https://github-readme-stats.vercel.app/api?username=gkatldus1)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<br/>
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+ 
+
+<br/>
+
+### :pencil2: Studying
+<img src="https://img.shields.io/badge/Springboot-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/JPA-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+
+ <br/>
+ <br/>
+ <hr/>
+</div>
+
+<div align ="center">
+  
+   ###  💙 SSAFY 8th
+   ###  🇰🇷 Based on Seoul,Korea
+  <br/>
+   
+   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gkatldus)](https://solved.ac/gkatldus) 
+   <br/><br/>
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gkatldus1&show_icons=true&theme=highconstrast)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gkatldus1&layout=compact)](https://github.com/gkatldus1/github-readme-stats)   
+ 
+</div>
+
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer)
+
+</div>
