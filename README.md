@@ -27,13 +27,14 @@
 <br/>
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Intellij%20IDE&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
  
 
 <br/>
 
 ### :pencil2: Studying
-<img src="https://img.shields.io/badge/Springboot-20232A?style=for-the-badge&logo=springboot&logoColor=green">
+<img src="https://img.shields.io/badge/Springboot-20232A?style=for-the-badge&logo=springboot&logoColor=white">
 <img src="https://img.shields.io/badge/JPA-339933?style=for-the-badge&logo=JPA&logoColor=white">
 <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=Docker&logoColor=white">
 
